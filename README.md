@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saad</h1>
-<h3 align="center">a cs student</h3>
+<h1 align="center">A random cs student </h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saad-benaqa" alt="saad-benaqa" /></a> </p>
 
